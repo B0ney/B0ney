@@ -1,4 +1,4 @@
-### Hi there 👋
+# ![logo](logo.png) Hello ![logo](logo.png)
 
 <!--
 **B0ney/B0ney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
